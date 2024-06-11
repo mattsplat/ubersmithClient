@@ -1,0 +1,9 @@
+{
+    "name": "matt/ubersmith_client",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "UbersmithClient\\": "src/"
+        }
+    }
+}
